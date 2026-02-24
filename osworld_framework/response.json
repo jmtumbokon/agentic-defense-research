@@ -1,0 +1,48 @@
+[
+    {
+        "role": "user",
+        "content": [
+            "image",
+            "Given the screenshot as below. What's the next step that you will do to help with the task?"
+        ]
+    },
+    {
+        "role": "model",
+        "content": [
+            "No valid action"
+        ]
+    },
+    {
+        "role": "user",
+        "content": [
+            "image",
+            "Given the screenshot as below. What's the next step that you will do to help with the task?"
+        ]
+    },
+    {
+        "role": "model",
+        "content": [
+            "No valid action"
+        ]
+    },
+    {
+        "role": "user",
+        "content": [
+            "image",
+            "Given the screenshot as below. What's the next step that you will do to help with the task?"
+        ]
+    },
+    {
+        "role": "model",
+        "content": [
+            "No valid action"
+        ]
+    },
+    {
+        "role": "user",
+        "content": [
+            "image",
+            "Given the screenshot as below. What's the next step that you will do to help with the task?"
+        ]
+    }
+]
