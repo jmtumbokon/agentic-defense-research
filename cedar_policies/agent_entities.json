@@ -1,0 +1,17 @@
+[
+    {
+        "uid": { "type": "Agent", "id": "osworld-agent" },
+        "attrs": { "model": "gemini-1.5-pro", "trust_level": "low" },
+        "parents": []
+    },
+    {
+        "uid": { "type": "App", "id": "chrome" },
+        "attrs": {},
+        "parents": []
+    },
+    {
+        "uid": { "type": "App", "id": "terminal" },
+        "attrs": {},
+        "parents": []
+    }
+]
