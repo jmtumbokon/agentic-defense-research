@@ -1,0 +1,16 @@
+# Large binary files
+*.sif
+*.qcow2
+*.qcow2.zip
+docker_vm_data/
+test_screenshot*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Old local duplicate
+agentic_defense/
