@@ -1,0 +1,156 @@
+[
+  {
+    "application": "chrome",
+    "task_id": "bb5e4c0d-f964-439c-97b6-bdb9747de3f4",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 22:59:15"
+  },
+  {
+    "application": "chrome",
+    "task_id": "06fe7178-4491-4589-810f-2e2bc9502122",
+    "status": "success",
+    "score": 1,
+    "timestamp": "2026-03-23 23:03:08"
+  },
+  {
+    "application": "chrome",
+    "task_id": "e1e75309-3ddb-4d09-92ec-de869c928143",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:05:54"
+  },
+  {
+    "application": "chrome",
+    "task_id": "35253b65-1c19-4304-8aa4-6884b8218fc0",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:09:50"
+  },
+  {
+    "application": "chrome",
+    "task_id": "2ad9387a-65d8-4e33-ad5b-7580065a27ca",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:15:51"
+  },
+  {
+    "application": "chrome",
+    "task_id": "7a5a7856-f1b6-42a4-ade9-1ca81ca0f263",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:23:01"
+  },
+  {
+    "application": "chrome",
+    "task_id": "2ae9ba84-3a0d-4d4c-8338-3a1478dc5fe3",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:25:12"
+  },
+  {
+    "application": "chrome",
+    "task_id": "480bcfea-d68f-4aaa-a0a9-2589ef319381",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-23 23:27:20"
+  },
+  {
+    "application": "chrome",
+    "task_id": "af630914-714e-4a24-a7bb-f9af687d3b91",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:29:22"
+  },
+  {
+    "application": "chrome",
+    "task_id": "3720f614-37fd-4d04-8a6b-76f54f8c222d",
+    "status": "success",
+    "score": 1,
+    "timestamp": "2026-03-23 23:31:32"
+  },
+  {
+    "application": "chrome",
+    "task_id": "99146c54-4f37-4ab8-9327-5f3291665e1e",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:33:45"
+  },
+  {
+    "application": "chrome",
+    "task_id": "12086550-11c0-466b-b367-1d9e75b3910e",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:35:54"
+  },
+  {
+    "application": "chrome",
+    "task_id": "6766f2b8-8a72-417f-a9e5-56fcaa735837",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:38:02"
+  },
+  {
+    "application": "chrome",
+    "task_id": "93eabf48-6a27-4cb6-b963-7d5fe1e0d3a9",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-23 23:40:19"
+  },
+  {
+    "application": "chrome",
+    "task_id": "ae78f875-5b98-4907-bbb5-9c737fc68c03",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-23 23:43:12"
+  },
+  {
+    "application": "chrome",
+    "task_id": "3299584d-8f11-4457-bf4c-ce98f7600250",
+    "status": "success",
+    "score": 1.0,
+    "timestamp": "2026-03-23 23:45:36"
+  },
+  {
+    "application": "chrome",
+    "task_id": "030eeff7-b492-4218-b312-701ec99ee0cc",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:47:46"
+  },
+  {
+    "application": "chrome",
+    "task_id": "9656a811-9b5b-4ddf-99c7-5117bcef0626",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:49:46"
+  },
+  {
+    "application": "chrome",
+    "task_id": "fc6d8143-9452-4171-9459-7f515143419a",
+    "status": "success",
+    "score": 0.0,
+    "timestamp": "2026-03-23 23:52:50"
+  },
+  {
+    "application": "chrome",
+    "task_id": "a96b564e-dbe9-42c3-9ccf-b4498073438a",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-23 23:55:49"
+  },
+  {
+    "application": "chrome",
+    "task_id": "1704f00f-79e6-43a7-961b-cedd3724d5fd",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-24 00:07:38"
+  },
+  {
+    "application": "chrome",
+    "task_id": "f3b19d1e-2d48-44e9-b4e1-defcae1a0197",
+    "status": "success",
+    "score": 0,
+    "timestamp": "2026-03-24 00:10:37"
+  }
+]

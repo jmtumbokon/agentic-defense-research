@@ -1,0 +1,35 @@
+# VM files (11+ GB)
+vmware_vm_data/
+*.vmdk
+*.vmx
+*.vmss
+*.vmem
+
+# API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+.conda/
+
+# Experiment outputs (optional — include if you want history)
+# experiments/
+# Additional entries
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+logs/
+*.log
+usage_log.jsonl
+*.vmxf
+*.nvram
+*.vmsd
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

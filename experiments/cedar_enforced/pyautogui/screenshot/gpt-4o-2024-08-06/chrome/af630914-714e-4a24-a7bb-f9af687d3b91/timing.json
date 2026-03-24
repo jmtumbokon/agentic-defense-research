@@ -1,0 +1,35 @@
+{
+  "task_id": "af630914-714e-4a24-a7bb-f9af687d3b91",
+  "task_total_time_s": 92.86,
+  "total_action_time_ms": 23886.68,
+  "total_cedar_time_ms": 26.6482,
+  "cedar_enabled": true,
+  "score": 0.0,
+  "steps_executed": 15,
+  "cedar_stats": {
+    "total_checks": 15,
+    "allowed": 14,
+    "blocked": 1,
+    "total_check_time_ms": 26.64829099740018,
+    "actions_by_type": {
+      "click": 11,
+      "type_text": 3,
+      "delete_file": 1
+    },
+    "actions_by_risk": {
+      "low": 11,
+      "medium": 3,
+      "high": 0,
+      "critical": 1
+    },
+    "blocked_actions": [
+      {
+        "action": "delete_file",
+        "resource": "filesystem",
+        "risk_level": "critical",
+        "raw_action": "import pyautogui\nimport time\n\n# Press \"Enter\" to confirm the dialog\npyautogui.press('enter')\ntime.sleep(1)"
+      }
+    ],
+    "avg_check_time_ms": 1.7766
+  }
+}

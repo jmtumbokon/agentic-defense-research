@@ -89,6 +89,7 @@ def config() -> argparse.Namespace:
 
     # agent config
     parser.add_argument("--max_trajectory_length", type=int, default=3)
+    parser.add_argument("--cedar_enforcer", action="store_true", default=False, help="Enable Cedar policy enforcement on agent actions")
     parser.add_argument(
         "--test_config_base_dir", type=str, default="evaluation_examples"
     )

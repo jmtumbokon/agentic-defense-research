@@ -1,0 +1,27 @@
+{
+  "task_id": "a96b564e-dbe9-42c3-9ccf-b4498073438a",
+  "task_total_time_s": 144.95,
+  "total_action_time_ms": 70309.16,
+  "total_cedar_time_ms": 13.5825,
+  "cedar_enabled": true,
+  "score": 0,
+  "steps_executed": 15,
+  "cedar_stats": {
+    "total_checks": 15,
+    "allowed": 15,
+    "blocked": 0,
+    "total_check_time_ms": 13.582456998847192,
+    "actions_by_type": {
+      "click": 11,
+      "type_text": 4
+    },
+    "actions_by_risk": {
+      "low": 11,
+      "medium": 4,
+      "high": 0,
+      "critical": 0
+    },
+    "blocked_actions": [],
+    "avg_check_time_ms": 0.9055
+  }
+}
